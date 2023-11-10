@@ -13,4 +13,3 @@ def test_authorisation(web_browser):
     page.btn.click()
 
     assert page.get_current_url() == 'https://petfriends.skillfactory.ru/all_pets'
-
