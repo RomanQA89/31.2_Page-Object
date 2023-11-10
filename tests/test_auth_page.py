@@ -11,5 +11,3 @@ def test_auth_page(selenium):
     assert page.get_relative_link() == '/all_pets', 'login error'
 
     time.sleep(5)
-
-
