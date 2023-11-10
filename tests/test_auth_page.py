@@ -12,3 +12,4 @@ def test_auth_page(selenium):
 
     time.sleep(5)
 
+
