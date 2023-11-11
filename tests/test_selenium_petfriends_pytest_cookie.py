@@ -36,3 +36,5 @@ def test_petfriends(web_browser):
 
     # Make the screenshot of browser window:
     page._web_driver.save_screenshot('petfriends.png')
+
+678
